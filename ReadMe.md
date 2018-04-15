@@ -1,6 +1,6 @@
-## Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
-# run_analysis.R - Script does the following:
+## run_analysis.R - Script does the following:
 
 * Merges the training and the test sets to create one data set.
 * Extracts only the measurements on the mean and standard deviation for each measurement.
